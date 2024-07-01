@@ -28,3 +28,7 @@ This project aims to translate American Sign Language (ASL) gestures into Englis
 ## Output:
 
 ![Screenshot 2024-07-01 131948](https://github.com/PranavKhedkar/American_Sign_Language_Translation/assets/99120112/bcd4ad12-eca0-4af2-a038-9825f5eb15c0)
+
+## Future Scope:
+
+Currently, the model can identify nine hand signs: '**Hello**', '**I Love You**', '**One Second**', '**Peace**', '**Thumbs down**', '**Thumbs up**', '**Time Out**', '**Hope**' and '**Ok**'. In future, more signs can be added for making the model a more powerful tool for communication, accessible to a broader range of users and applications.
