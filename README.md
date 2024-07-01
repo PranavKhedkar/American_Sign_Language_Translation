@@ -8,6 +8,15 @@ This project aims to translate American Sign Language (ASL) gestures into Englis
 - *cv2*: OpenCV library for capturing and processing video feed from the webcam.
 - *Streamlit*: Web application framework for creating the user interface.
 
+## File Structure
+.
+├── app.py                   # Streamlit application
+├── best.pt                  # Trained model
+├── main.py                  # Main application logic
+├── requirements.txt         # Dependencies
+├── .gitignore               # Git ignore file
+└── README.md                # Project documentation
+
 ## Working
 
 1. Video Capture: The cv2 library captures the video feed from the webcam.
@@ -17,3 +26,4 @@ This project aims to translate American Sign Language (ASL) gestures into Englis
 
 ## Output:
 
+![Screenshot 2024-07-01 131948](https://github.com/PranavKhedkar/American_Sign_Language_Translation/assets/99120112/bcd4ad12-eca0-4af2-a038-9825f5eb15c0)
