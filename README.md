@@ -9,13 +9,14 @@ This project aims to translate American Sign Language (ASL) gestures into Englis
 - *Streamlit*: Web application framework for creating the user interface.
 
 ## File Structure
-.
+```bash
 ├── app.py                   # Streamlit application
 ├── best.pt                  # Trained model
 ├── main.py                  # Main application logic
 ├── requirements.txt         # Dependencies
 ├── .gitignore               # Git ignore file
 └── README.md                # Project documentation
+```
 
 ## Working
 
