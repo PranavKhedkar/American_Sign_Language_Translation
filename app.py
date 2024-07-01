@@ -50,7 +50,6 @@ while cap.isOpened() and not st.session_state.stop:
         
         cv2.rectangle(frame, (x1, y1), (x2, y2), (0, 255, 0), 2)
         cv2.putText(frame, f'{label} {conf:.2f}', (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
-        st.write('It means: ',label)
 
     # Convert BGR to RGB for Streamlit display
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
