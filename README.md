@@ -4,9 +4,9 @@ This project aims to translate American Sign Language (ASL) gestures into Englis
 
 ## Technologies Used
 
-- *YOLOv8*: Used for real-time object detection and classification of hand gestures.
-- *cv2*: OpenCV library for capturing and processing video feed from the webcam.
-- *Streamlit*: Web application framework for creating the user interface.
+- **YOLOv8**: Used for real-time object detection and classification of hand gestures.
+- **cv2**: OpenCV library for capturing and processing video feed from the webcam.
+- **Streamlit**: Web application framework for creating the user interface.
 
 ## File Structure
 ```bash
